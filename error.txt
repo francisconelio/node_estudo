@@ -1,0 +1,2 @@
+Olá eu sou o conteudo
+"Mon Jun 12 2023 21:18:57 GMT-0300 (Horário Padrão de Brasília){\"errno\":-4075,\"code\":\"EEXIST\",\"syscall\":\"mkdir\",\"path\":\"c:\\\\Users\\\\55859\\\\OneDrive\\\\Documentos\\\\GIT\\\\node_estudo\\\\pasta\"}"
